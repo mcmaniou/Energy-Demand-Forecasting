@@ -13,6 +13,7 @@ The algorithms implemented include:
 - LightGBM: A gradient boosting framework that uses tree-based learning algorithms [4].
 - Transformer: Deep learning attention-based model originally designed for influenza ratio forecasting [5].
 
+### References
 
 [1] Jhana N. 2019. Hourly energy demand generation and weather. Retrieved April 8, 2022 from https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather/metadata?select=energy_dataset.csv 
 
