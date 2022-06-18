@@ -30,7 +30,7 @@ You can use the parameters of the model either by changing the default value of 
 
 **model.py**: Transformer model implementation in Pytorch  (https://github.com/yuyama137/influenza)
 
-**util.py**: Helper functions to load data in wright form. If you want to test alternative parametrazations and change the shape of data tou can do it from utlis.py, class EnergyDataset, method "getitem"
+**util.py**: Helper functions to load data in wright form. If you want to test alternative parametrazations and change the shape of data you can do it from utlis.py, class EnergyDataset, method "getitem"
 ## Reference
 
 - [Wu, Neo, et al. "Deep transformer models for time series forecasting: The influenza prevalence case." arXiv preprint arXiv:2001.08317 (2020).](https://arxiv.org/abs/2001.08317)
