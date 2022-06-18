@@ -25,3 +25,4 @@ The algorithms implemented include:
 
 [5] Ke G, Meng Q, Finley T, Wang T, Chen W, Ma W, Ye Q, Liu TY. 2017. Lightgbm: A highly efficient gradient boosting decision tree. Advances in neural information processing systems, 30.
 
+![alt text](https://github.com/mcmaniou/Energy-Demand-Forecasting/blob/main/Poster.png?raw=true)
